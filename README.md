@@ -64,5 +64,5 @@ Therefore, the movement of fingertips triggers the recognition of different digi
 
 ## The COLORS list now includes 11 colors, corresponding to digits from 0 to 10.
 
-The digit recognition mechanism has been adjusted to round the Y-coordinate of the index finger tip multiplied by 10 to get an integer value between 0 and 10. When a digit is recognized, its corresponding color is retrieved from the COLORS list and used to display the digit on the screen. With these changes, the code can now recognize and display digits from 0 to 10 based on the movement of the fingertips.
+The digit recognition mechanism has been adjusted to round the Y-coordinate of the index finger tip multiplied by 10 to get an integer value between 0 and 10. When a digit is recognized, its corresponding color is retrieved from the COLORS list and used to display the digit on the screen. The code can now recognize and display digits from 0 to 10 based on the movement of the fingertips.
 
